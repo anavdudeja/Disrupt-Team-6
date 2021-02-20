@@ -1,0 +1,674 @@
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Homepage_Class {
+	position: absolute;
+	width: 1920px;
+	height: 4320px;
+	background-color: rgba(15,1,1,1);
+	overflow: hidden;
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Launch_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1004.16px;
+	left: 0px;
+	top: 2140px;
+	overflow: visible;
+}
+.ID74055fb7-a6e3-4d26-8466-3a93_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_9_m_Class {
+	fill: url(#Rectangle_9_m);
+}
+.Rectangle_9_m {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.Counter_Class {
+	position: absolute;
+	width: 1000px;
+	height: 115px;
+	left: 740px;
+	top: 740px;
+	overflow: visible;
+}
+.ID120__12__11__20_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 604px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 83px;
+	color: rgba(255,255,255,1);
+}
+
+.LAUNCH_Class {
+	filter: drop-shadow(10px 10px 99px rgba(255, 255, 255, 0.871));
+	left: 684px;
+	top: 129px;
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 140px;
+	color: rgba(228,228,228,1);
+}
+.COMAPNY_Class {
+	position: absolute;
+	width: 1920px;
+	height: 950px;
+	left: 0px;
+	top: 1070px;
+	overflow: visible;
+}
+.Xiaomi-facts-1200x800_Class {
+	opacity: 0.998;
+	position: absolute;
+	width: 1920px;
+	height: 1070px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3_u_Class {
+	fill: url(#Rectangle_3_u);
+}
+.Rectangle_3_u {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1070px;
+	left: 0px;
+	top: 0px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 1234px;
+	top: 370px;
+	position: absolute;
+	overflow: hidden;
+	width: 514px;
+	height: 320px;
+	text-align: justify;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Xiaomi_Class {
+	left: 1234px;
+	top: 271.57px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 65px;
+	color: rgba(228,228,228,1);
+}
+.KNOW_MORE_Class {
+	position: absolute;
+	width: 164px;
+	height: 55px;
+	left: 1354px;
+	top: 720px;
+	overflow: visible;
+}
+.KNOW_MORE_y_Class {
+	left: 23px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(228,228,228,1);
+}
+.Rectangle_37_Class {
+	fill: rgba(255,255,255,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.Landing_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+.Navigation_section_Class {
+	position: sticky;
+	width: 1920px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+.Products_Class {
+	left: 1518px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Features;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Home_Class {
+	left: 1356px;
+	top: 12.5px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Xiaomi-Logo_Class {
+	position: absolute;
+	width: 98px;
+	height: 55px;
+	left: 15px;
+	top: 10px;
+	overflow: visible;
+}
+.Cart_Button_Class {
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 1728px;
+	top: 7px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.shopping-cart_icon-iconscom_69_Class {
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Cart;
+	cursor: pointer;
+}
+.Profile_Button_Class {
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 1810px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: Signup_login;
+	cursor: pointer;
+}
+.Ellipse_2_Class {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.account_avatar_face_man_people_Class {
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Footer_Class {
+	position: absolute;
+	width: 1522px;
+	height: 684px;
+	left: 199px;
+	top: 3413px;
+	overflow: visible;
+}
+.developed_by_tech_club_Class {
+	left: 654.5px;
+	top: 345px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+._Tech_Club_Logo_Class {
+	position: absolute;
+	width: 136px;
+	height: 136px;
+	left: 692.5px;
+	top: 188px;
+	overflow: visible;
+}
+.Right_Line_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Right_Line {
+	overflow: visible;
+	position: absolute;
+	width: 577px;
+	height: 5px;
+	left: 945px;
+	top: 75.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Xiaomi-Logo_z_Class {
+	position: absolute;
+	width: 270px;
+	height: 152px;
+	left: 626px;
+	top: 0px;
+	overflow: visible;
+}
+.Left_Line_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Left_Line {
+	overflow: visible;
+	position: absolute;
+	width: 577px;
+	height: 5px;
+	left: 0px;
+	top: 75.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Support_Class {
+	position: absolute;
+	width: 237px;
+	height: 173px;
+	left: 200px;
+	top: 430px;
+	overflow: visible;
+}
+.Online_help_Class {
+	left: 42px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Support__Class {
+	left: 57px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+.Customer_service_Class {
+	left: 0px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Contact_us_Class {
+	position: absolute;
+	width: 282px;
+	height: 173px;
+	left: 1093px;
+	top: 430px;
+	overflow: visible;
+}
+.contact_us_Class {
+	left: 55px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+.Mi_Home_Class {
+	left: 80px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Mi_Authorised_stores_Class {
+	left: 0px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Follow_us_Class {
+	position: absolute;
+	width: 266px;
+	height: 279px;
+	left: 628px;
+	top: 430px;
+	overflow: visible;
+}
+.Follow_us_ba_Class {
+	left: 57px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+.Group_20_Class {
+	position: absolute;
+	width: 266px;
+	height: 249px;
+	left: 0px;
+	top: 30px;
+	overflow: visible;
+}
+.twitter_Class {
+	position: absolute;
+	width: 133px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_3_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 100px;
+	left: 22px;
+	top: 16px;
+}
+.twitter_black_logo_icon_147062_Class {
+	position: absolute;
+	width: 133px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Insta_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 133px;
+	top: 121px;
+	overflow: visible;
+}
+.Ellipse_4_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 100px;
+	left: 12px;
+	top: 17px;
+}
+.instagram_black_logo_icon_1471_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Facebook_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 0px;
+	top: 121px;
+	overflow: visible;
+}
+.Ellipse_5_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 100px;
+	left: 22px;
+	top: 17px;
+}
+.facebook_black_logo_icon_14713_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Youtube_Button_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 138px;
+	top: 5px;
+	overflow: visible;
+}
+.Ellipse_6_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 100px;
+	left: 7px;
+	top: 11px;
+}
+.youtube_black_logo_icon_147044_Class {
+	position: absolute;
+	width: 128px;
+	height: 128px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}

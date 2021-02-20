@@ -1,0 +1,19 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+#slide-demo-1 {
+  background-image: url(/IMAGES/Landing_Slider/Landing.jpg);
+}
+
+#slide-demo-2 {
+  background-image: url(/IMAGES/Landing_Slider/landing1.jpg);
+  top: -10px;
+}
+
+#slide-demo-3 {
+  background-image: url(/IMAGES/Landing_Slider/landing3.jpg);
+  top: -10px;
+}
+
+#slide-demo-4 {
+  background-image: url(/IMAGES/Landing_Slider/landing2.jpg);
+}
